@@ -32,3 +32,6 @@ A simple pyhton project that uses the Poke API library to fetch some information
 
     Location Name   hearthome-city-area
     Encounter method(s)   {'gift'} 
+
+## Caveat 
+If the project cannot find the requests library , try to run in a virtual environmet or install the modules globally
